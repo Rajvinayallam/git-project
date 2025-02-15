@@ -1,3 +1,5 @@
 Hello, This is Vinay!!
 
 hi, this is second commit
+
+This line is now being added by "friend"
